@@ -15,7 +15,7 @@
 | Tool | elixir-phoenix-waitlist | Others |
 |------|-----------|--------|
 | **Privacy** | Local-first | Cloud upload |
-| **Aesthetic** | Cream, stone, ink | Neon, noise |
+| **Aesthetic** | Clean, stone, ink | Neon, noise |
 | **Vibe** | For coders who ship | For managers who watch |
 
 ## Stack
